@@ -1,0 +1,6 @@
+G:\UnityProject\DemoProject_HT\C#设计模式\单例模式\单例模式\bin\Debug\单例模式.exe.config
+G:\UnityProject\DemoProject_HT\C#设计模式\单例模式\单例模式\bin\Debug\单例模式.exe
+G:\UnityProject\DemoProject_HT\C#设计模式\单例模式\单例模式\bin\Debug\单例模式.pdb
+G:\UnityProject\DemoProject_HT\C#设计模式\单例模式\单例模式\obj\Debug\单例模式.csprojResolveAssemblyReference.cache
+G:\UnityProject\DemoProject_HT\C#设计模式\单例模式\单例模式\obj\Debug\单例模式.exe
+G:\UnityProject\DemoProject_HT\C#设计模式\单例模式\单例模式\obj\Debug\单例模式.pdb

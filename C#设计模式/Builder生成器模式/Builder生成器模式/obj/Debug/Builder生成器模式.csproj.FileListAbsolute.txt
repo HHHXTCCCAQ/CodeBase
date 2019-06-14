@@ -1,0 +1,6 @@
+G:\UnityProject\DemoProject_HT\C#设计模式\Builder生成器模式\Builder生成器模式\bin\Debug\Builder生成器模式.exe.config
+G:\UnityProject\DemoProject_HT\C#设计模式\Builder生成器模式\Builder生成器模式\bin\Debug\Builder生成器模式.exe
+G:\UnityProject\DemoProject_HT\C#设计模式\Builder生成器模式\Builder生成器模式\bin\Debug\Builder生成器模式.pdb
+G:\UnityProject\DemoProject_HT\C#设计模式\Builder生成器模式\Builder生成器模式\obj\Debug\Builder生成器模式.csprojResolveAssemblyReference.cache
+G:\UnityProject\DemoProject_HT\C#设计模式\Builder生成器模式\Builder生成器模式\obj\Debug\Builder生成器模式.exe
+G:\UnityProject\DemoProject_HT\C#设计模式\Builder生成器模式\Builder生成器模式\obj\Debug\Builder生成器模式.pdb
