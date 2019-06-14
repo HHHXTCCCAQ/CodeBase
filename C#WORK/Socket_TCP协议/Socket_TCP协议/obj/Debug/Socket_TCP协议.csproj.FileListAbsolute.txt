@@ -1,0 +1,1 @@
+E:\C#WORK\Socket_TCP协议\Socket_TCP协议\bin\Debug\Socket_TCP协议.exe.config

@@ -1,0 +1,6 @@
+E:\C#WORK\通过任务开启线程\通过任务开启线程\bin\Debug\通过任务开启线程.exe.config
+E:\C#WORK\通过任务开启线程\通过任务开启线程\bin\Debug\通过任务开启线程.exe
+E:\C#WORK\通过任务开启线程\通过任务开启线程\bin\Debug\通过任务开启线程.pdb
+E:\C#WORK\通过任务开启线程\通过任务开启线程\obj\Debug\通过任务开启线程.exe
+E:\C#WORK\通过任务开启线程\通过任务开启线程\obj\Debug\通过任务开启线程.pdb
+E:\C#WORK\通过任务开启线程\通过任务开启线程\obj\Debug\通过任务开启线程.csprojResolveAssemblyReference.cache

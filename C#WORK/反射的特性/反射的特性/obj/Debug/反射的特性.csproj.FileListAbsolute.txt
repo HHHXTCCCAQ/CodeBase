@@ -1,0 +1,6 @@
+E:\C#WORK\反射的特性\反射的特性\bin\Debug\反射的特性.exe.config
+E:\C#WORK\反射的特性\反射的特性\bin\Debug\反射的特性.exe
+E:\C#WORK\反射的特性\反射的特性\bin\Debug\反射的特性.pdb
+E:\C#WORK\反射的特性\反射的特性\obj\Debug\反射的特性.csprojResolveAssemblyReference.cache
+E:\C#WORK\反射的特性\反射的特性\obj\Debug\反射的特性.exe
+E:\C#WORK\反射的特性\反射的特性\obj\Debug\反射的特性.pdb

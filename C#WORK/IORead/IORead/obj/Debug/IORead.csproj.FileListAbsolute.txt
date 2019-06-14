@@ -1,0 +1,6 @@
+E:\C#WORK\IORead\IORead\bin\Debug\IORead.exe.config
+E:\C#WORK\IORead\IORead\bin\Debug\IORead.exe
+E:\C#WORK\IORead\IORead\bin\Debug\IORead.pdb
+E:\C#WORK\IORead\IORead\obj\Debug\IORead.csprojResolveAssemblyReference.cache
+E:\C#WORK\IORead\IORead\obj\Debug\IORead.exe
+E:\C#WORK\IORead\IORead\obj\Debug\IORead.pdb

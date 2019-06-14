@@ -1,0 +1,5 @@
+E:\C#WORK\Socket_TCP_001客户端\Socket_TCP_001客户端\bin\Debug\Socket_TCP_001客户端.exe.config
+E:\C#WORK\Socket_TCP_001客户端\Socket_TCP_001客户端\bin\Debug\Socket_TCP_001客户端.exe
+E:\C#WORK\Socket_TCP_001客户端\Socket_TCP_001客户端\bin\Debug\Socket_TCP_001客户端.pdb
+E:\C#WORK\Socket_TCP_001客户端\Socket_TCP_001客户端\obj\Debug\Socket_TCP_001客户端.exe
+E:\C#WORK\Socket_TCP_001客户端\Socket_TCP_001客户端\obj\Debug\Socket_TCP_001客户端.pdb

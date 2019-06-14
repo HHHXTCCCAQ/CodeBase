@@ -1,0 +1,5 @@
+E:\C#WORK\观察者模式\观察者模式\bin\Debug\观察者模式.exe.config
+E:\C#WORK\观察者模式\观察者模式\bin\Debug\观察者模式.exe
+E:\C#WORK\观察者模式\观察者模式\bin\Debug\观察者模式.pdb
+E:\C#WORK\观察者模式\观察者模式\obj\Debug\观察者模式.exe
+E:\C#WORK\观察者模式\观察者模式\obj\Debug\观察者模式.pdb

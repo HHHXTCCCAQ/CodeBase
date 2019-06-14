@@ -1,0 +1,6 @@
+E:\C#WORK\Socket_TCP协议\Socket_TCP协议\bin\Debug\Socket_TCP协议.exe.config
+E:\C#WORK\Socket_TCP协议\Socket_TCP协议\bin\Debug\Socket_TCP协议.exe
+E:\C#WORK\Socket_TCP协议\Socket_TCP协议\bin\Debug\Socket_TCP协议.pdb
+E:\C#WORK\Socket_TCP协议\Socket_TCP协议\obj\Debug\Socket_TCP协议_服务器.csprojResolveAssemblyReference.cache
+E:\C#WORK\Socket_TCP协议\Socket_TCP协议\obj\Debug\Socket_TCP协议.exe
+E:\C#WORK\Socket_TCP协议\Socket_TCP协议\obj\Debug\Socket_TCP协议.pdb

@@ -1,0 +1,6 @@
+E:\C#WORK\Xml操作\Xml操作\bin\Debug\Xml操作.exe.config
+E:\C#WORK\Xml操作\Xml操作\bin\Debug\Xml操作.exe
+E:\C#WORK\Xml操作\Xml操作\bin\Debug\Xml操作.pdb
+E:\C#WORK\Xml操作\Xml操作\obj\Debug\Xml操作.csprojResolveAssemblyReference.cache
+E:\C#WORK\Xml操作\Xml操作\obj\Debug\Xml操作.exe
+E:\C#WORK\Xml操作\Xml操作\obj\Debug\Xml操作.pdb

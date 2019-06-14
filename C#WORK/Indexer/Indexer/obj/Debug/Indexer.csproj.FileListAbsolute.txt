@@ -1,0 +1,6 @@
+E:\C#WORK\Indexer\Indexer\bin\Debug\Indexer.exe.config
+E:\C#WORK\Indexer\Indexer\bin\Debug\Indexer.exe
+E:\C#WORK\Indexer\Indexer\bin\Debug\Indexer.pdb
+E:\C#WORK\Indexer\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache
+E:\C#WORK\Indexer\Indexer\obj\Debug\Indexer.exe
+E:\C#WORK\Indexer\Indexer\obj\Debug\Indexer.pdb

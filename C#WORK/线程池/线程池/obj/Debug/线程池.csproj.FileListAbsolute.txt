@@ -1,0 +1,6 @@
+E:\C#WORK\线程池\线程池\bin\Debug\线程池.exe.config
+E:\C#WORK\线程池\线程池\bin\Debug\线程池.exe
+E:\C#WORK\线程池\线程池\bin\Debug\线程池.pdb
+E:\C#WORK\线程池\线程池\obj\Debug\线程池.csprojResolveAssemblyReference.cache
+E:\C#WORK\线程池\线程池\obj\Debug\线程池.exe
+E:\C#WORK\线程池\线程池\obj\Debug\线程池.pdb

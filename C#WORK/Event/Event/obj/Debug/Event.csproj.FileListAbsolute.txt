@@ -1,0 +1,6 @@
+E:\C#WORK\Event\Event\bin\Debug\Event.exe.config
+E:\C#WORK\Event\Event\bin\Debug\Event.exe
+E:\C#WORK\Event\Event\bin\Debug\Event.pdb
+E:\C#WORK\Event\Event\obj\Debug\Event.csprojResolveAssemblyReference.cache
+E:\C#WORK\Event\Event\obj\Debug\Event.exe
+E:\C#WORK\Event\Event\obj\Debug\Event.pdb

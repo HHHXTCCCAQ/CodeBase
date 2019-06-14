@@ -1,0 +1,6 @@
+E:\C#WORK\线程\线程\bin\Debug\线程.exe.config
+E:\C#WORK\线程\线程\bin\Debug\线程.exe
+E:\C#WORK\线程\线程\bin\Debug\线程.pdb
+E:\C#WORK\线程\线程\obj\Debug\线程.csprojResolveAssemblyReference.cache
+E:\C#WORK\线程\线程\obj\Debug\线程.exe
+E:\C#WORK\线程\线程\obj\Debug\线程.pdb

@@ -1,0 +1,6 @@
+E:\C#WORK\Socket编程_UDP服务器\Socket编程_UDP服务器\bin\Debug\Socket编程_UDP服务器.exe.config
+E:\C#WORK\Socket编程_UDP服务器\Socket编程_UDP服务器\bin\Debug\Socket编程_UDP服务器.exe
+E:\C#WORK\Socket编程_UDP服务器\Socket编程_UDP服务器\bin\Debug\Socket编程_UDP服务器.pdb
+E:\C#WORK\Socket编程_UDP服务器\Socket编程_UDP服务器\obj\Debug\Socket编程_UDP服务器.csprojResolveAssemblyReference.cache
+E:\C#WORK\Socket编程_UDP服务器\Socket编程_UDP服务器\obj\Debug\Socket编程_UDP服务器.exe
+E:\C#WORK\Socket编程_UDP服务器\Socket编程_UDP服务器\obj\Debug\Socket编程_UDP服务器.pdb

@@ -1,0 +1,5 @@
+E:\C#WORK\Socket_UDP客户端\Socket_UDP客户端\bin\Debug\Socket_UDP客户端.exe.config
+E:\C#WORK\Socket_UDP客户端\Socket_UDP客户端\bin\Debug\Socket_UDP客户端.exe
+E:\C#WORK\Socket_UDP客户端\Socket_UDP客户端\bin\Debug\Socket_UDP客户端.pdb
+E:\C#WORK\Socket_UDP客户端\Socket_UDP客户端\obj\Debug\Socket_UDP客户端.exe
+E:\C#WORK\Socket_UDP客户端\Socket_UDP客户端\obj\Debug\Socket_UDP客户端.pdb

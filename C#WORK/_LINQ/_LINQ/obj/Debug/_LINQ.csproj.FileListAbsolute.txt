@@ -1,0 +1,5 @@
+E:\C#WORK\_LINQ\_LINQ\bin\Debug\_LINQ.exe.config
+E:\C#WORK\_LINQ\_LINQ\bin\Debug\_LINQ.exe
+E:\C#WORK\_LINQ\_LINQ\bin\Debug\_LINQ.pdb
+E:\C#WORK\_LINQ\_LINQ\obj\Debug\_LINQ.exe
+E:\C#WORK\_LINQ\_LINQ\obj\Debug\_LINQ.pdb

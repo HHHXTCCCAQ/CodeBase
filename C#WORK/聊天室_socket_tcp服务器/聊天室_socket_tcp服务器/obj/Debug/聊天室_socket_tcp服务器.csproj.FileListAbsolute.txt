@@ -1,0 +1,6 @@
+E:\C#WORK\聊天室_socket_tcp服务器\聊天室_socket_tcp服务器\bin\Debug\聊天室_socket_tcp服务器.exe.config
+E:\C#WORK\聊天室_socket_tcp服务器\聊天室_socket_tcp服务器\bin\Debug\聊天室_socket_tcp服务器.exe
+E:\C#WORK\聊天室_socket_tcp服务器\聊天室_socket_tcp服务器\bin\Debug\聊天室_socket_tcp服务器.pdb
+E:\C#WORK\聊天室_socket_tcp服务器\聊天室_socket_tcp服务器\obj\Debug\聊天室_socket_tcp服务器.csprojResolveAssemblyReference.cache
+E:\C#WORK\聊天室_socket_tcp服务器\聊天室_socket_tcp服务器\obj\Debug\聊天室_socket_tcp服务器.exe
+E:\C#WORK\聊天室_socket_tcp服务器\聊天室_socket_tcp服务器\obj\Debug\聊天室_socket_tcp服务器.pdb

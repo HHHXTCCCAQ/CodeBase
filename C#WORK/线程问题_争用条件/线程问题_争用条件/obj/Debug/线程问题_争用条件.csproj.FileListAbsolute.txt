@@ -1,0 +1,6 @@
+E:\C#WORK\线程问题_争用条件\线程问题_争用条件\bin\Debug\线程问题_争用条件.exe.config
+E:\C#WORK\线程问题_争用条件\线程问题_争用条件\bin\Debug\线程问题_争用条件.exe
+E:\C#WORK\线程问题_争用条件\线程问题_争用条件\bin\Debug\线程问题_争用条件.pdb
+E:\C#WORK\线程问题_争用条件\线程问题_争用条件\obj\Debug\线程问题_争用条件.csprojResolveAssemblyReference.cache
+E:\C#WORK\线程问题_争用条件\线程问题_争用条件\obj\Debug\线程问题_争用条件.exe
+E:\C#WORK\线程问题_争用条件\线程问题_争用条件\obj\Debug\线程问题_争用条件.pdb

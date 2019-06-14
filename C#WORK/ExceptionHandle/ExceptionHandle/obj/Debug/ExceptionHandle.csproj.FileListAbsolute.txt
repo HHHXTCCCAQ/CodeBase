@@ -1,0 +1,6 @@
+E:\C#WORK\ExceptionHandle\ExceptionHandle\bin\Debug\ExceptionHandle.exe.config
+E:\C#WORK\ExceptionHandle\ExceptionHandle\bin\Debug\ExceptionHandle.exe
+E:\C#WORK\ExceptionHandle\ExceptionHandle\bin\Debug\ExceptionHandle.pdb
+E:\C#WORK\ExceptionHandle\ExceptionHandle\obj\Debug\ExceptionHandle.csprojResolveAssemblyReference.cache
+E:\C#WORK\ExceptionHandle\ExceptionHandle\obj\Debug\ExceptionHandle.exe
+E:\C#WORK\ExceptionHandle\ExceptionHandle\obj\Debug\ExceptionHandle.pdb

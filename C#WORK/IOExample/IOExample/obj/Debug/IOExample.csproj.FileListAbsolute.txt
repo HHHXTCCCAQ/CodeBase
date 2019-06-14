@@ -1,0 +1,6 @@
+E:\C#WORK\IOExample\IOExample\bin\Debug\IOExample.exe.config
+E:\C#WORK\IOExample\IOExample\bin\Debug\IOExample.exe
+E:\C#WORK\IOExample\IOExample\bin\Debug\IOExample.pdb
+E:\C#WORK\IOExample\IOExample\obj\Debug\IOExample.csprojResolveAssemblyReference.cache
+E:\C#WORK\IOExample\IOExample\obj\Debug\IOExample.exe
+E:\C#WORK\IOExample\IOExample\obj\Debug\IOExample.pdb
