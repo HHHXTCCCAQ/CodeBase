@@ -1,0 +1,5 @@
+D:\HtProject\Nhibernate\Common\bin\Debug\Common.dll
+D:\HtProject\Nhibernate\Common\bin\Debug\Common.pdb
+D:\HtProject\Nhibernate\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\HtProject\Nhibernate\Common\obj\Debug\Common.dll
+D:\HtProject\Nhibernate\Common\obj\Debug\Common.pdb

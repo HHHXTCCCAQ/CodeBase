@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nhibernate", "Nhibernate\Nhibernate.csproj", "{6A3C8CD5-E5A1-4C3C-A01D-9F32E9CBCD3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGameServer", "MyGameServer\MyGameServer.csproj", "{3304D566-BC59-4FF5-8505-0CF5776CC885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{DE4E2A41-53E1-4479-983F-8A53468A3A38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A3C8CD5-E5A1-4C3C-A01D-9F32E9CBCD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3C8CD5-E5A1-4C3C-A01D-9F32E9CBCD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3C8CD5-E5A1-4C3C-A01D-9F32E9CBCD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3C8CD5-E5A1-4C3C-A01D-9F32E9CBCD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3304D566-BC59-4FF5-8505-0CF5776CC885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3304D566-BC59-4FF5-8505-0CF5776CC885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3304D566-BC59-4FF5-8505-0CF5776CC885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3304D566-BC59-4FF5-8505-0CF5776CC885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4E2A41-53E1-4479-983F-8A53468A3A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4E2A41-53E1-4479-983F-8A53468A3A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4E2A41-53E1-4479-983F-8A53468A3A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4E2A41-53E1-4479-983F-8A53468A3A38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31AC7BEA-B671-42C4-8CFB-A8E6C072FAA0}
+	EndGlobalSection
+EndGlobal
